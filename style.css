@@ -1,0 +1,19 @@
+label{
+    display:block;
+    padding: 10px;
+}
+form{
+    background-color: aqua;
+    text-align: center;
+    margin:0px 200px 0px 200px;
+}
+h1{
+    text-align: center;
+}
+button{
+    background-color: aqua;
+
+}
+button:hover{
+    background-color: rgb(225, 118, 118);
+}
